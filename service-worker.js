@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.f6358f8b370ff0ff523b00ac98621c44.js"
+  "/precache-manifest.51e77232a268d067acc2f5e7861c1f85.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "mdermarches"});
